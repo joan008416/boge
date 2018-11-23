@@ -1,3 +1,3 @@
 <?php
 
-echo 'sssshohoho';
+echo '你是狗吗?';
