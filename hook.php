@@ -1,3 +1,3 @@
 <?php
 
-echo '你是狗吗?';
+echo  exec('whoami')';
